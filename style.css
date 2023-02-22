@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 150px;
+    border-radius: 50%;
+    padding: 10px;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    margin-left: 50px;
+    color: #EAEBED;
+}
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #243B67;
+    width: 100dvw;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #6E5DCF;
+    color: #EAEBED;
+    font-weight: bolder;
+    font-size: larger;
+    width: 100dvw;
+    height: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+body{
+    background-color: #EAEBED;
+}
+li:hover{
+    background-color: #243B67;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    height: 50px;
+    width: 100dvw;
+}
+nav{
+    width: 100dvw;
+}
+main{
+    padding: 0px;
+    background-color: #EAEBED;
+    height: 100%;
+    width: 100dvw;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+p#lorem{
+    padding: 10px;
+    margin-right: 10%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #243B67;
+}
+img#guitarra{
+    border-radius: 0%;
+    width: 300px;
+    margin-left: 10%;
+    margin-right: 2%;
+    border-radius: 10%;
+}
+footer{
+    background-color: #243B67;
+    position: fixed;
+    bottom: 0%;
+    width: 100dvw;
+    justify-content: center;
+    display: flex;
+}
+p#instagram{
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #EAEBED;
+}
+
+
